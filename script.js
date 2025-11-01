@@ -1,3 +1,3 @@
 document.getElementById('demo-button').addEventListener('click', function() {
-    alert('You have clicked the button!');
+    alert('Thank you for clicking the button!');
 });
